@@ -22,7 +22,7 @@ vecteur, il va falloir faire une structure.
     } vector_##type;\
  ```
 
-Pensez toujours a mettre un `\` a la fin de vos lignes, cela
+Pensez toujours a mettre un `\` à la fin de vos lignes, cela
 permet de conserver le 1er #define en une seule ligne.
 
 
